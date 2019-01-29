@@ -1,4 +1,4 @@
 module.exports = {
-  mongoURI: "YOUR_MONGO_URI_HERE",
+  mongoURI: "mongodb://nabin:teamlion128@ds143683.mlab.com:43683/department-evaluation-db",
   secretOrKey: "secret"
 };
